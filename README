@@ -1,0 +1,26 @@
+## to recreate the findings
+
+## python packages
+- all come pre-installed with python but bs4
+- pandas ( version 2.1.4 )
+- requests ( version 2.31.0 )
+- josn ( version 0.9.14 )
+- bs4 ( pip install beautifulsoup4 ) ( version 4.12.2 )
+- time
+- urllib ( version 2.1.0 )
+
+## package versions
+- python version 3.11.9
+
+## process
+- install vscode for windows ( version 1.88.1 )
+- install vscode extensions:
+    - jupyter ( extension id: ms-toolsai.jupyter )
+    - python ( extension id: ms-python.python )
+    - vscode-pdf ( extension id: tomoki1207.pdf )
+    - rainbow csv ( extension id: mechatroner.rainbow-csv )
+    - csv to table ( extension id: phplasma.csv-to-table)
+- open `blog.ipynb` file\
+- for each block execute the code
+    - make sure that netflix_titles_scraped.csv is included in the same directory
+- review results
