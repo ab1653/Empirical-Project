@@ -24,3 +24,5 @@
 - for each block execute the code
     - make sure that netflix_titles_scraped.csv is included in the same directory
 - review results
+ - open `scraping.ipynb` file\
+  - for each block execute the code
